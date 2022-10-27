@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 theme = "hugo-book"
 languageCode = 'en-us'
 title = 'PythonChalleges'
+
+[params]
+    BookTheme = 'auto'
+    BookLogo ='logo.png'
+    BookMenuBundle= '/menu'
