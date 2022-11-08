@@ -1,4 +1,4 @@
-# 2. Operaciones con números en Python
+# Operaciones con números
 
 -   Elegir dos números enteros
 -   Con estos números realizar las siguientes operaciones:

@@ -3,9 +3,11 @@ headless = true
 +++
 
 - Basics
-  - [Hello World]({{< relref "/docs/hello-world" >}})
-  - [Math]({{< relref "/docs/math" >}})
+  - [Hello World]({{< relref "/docs/hello_world" >}})
+  - [Operaciones Basicas]({{< relref "/docs/operaciones_con_numeros" >}})
+  - [List]({{< relref "/docs/listar_numeros" >}})
+  - [Calcular la media]({{< relref "/docs/medias_de_numeros" >}})
+  - [Pares]({{< relref "/docs/pares" >}})
 - More Advanced
-  - [List]({{< relref "/docs/list" >}})
 - Apuntes redes
   - [Ruta por defecto]({{< relref "/docs/normas-ruta-por-defecto" >}})
