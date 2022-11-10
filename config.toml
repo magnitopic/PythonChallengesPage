@@ -2,7 +2,6 @@ baseURL = 'http://example.org/'
 theme = "hugo-book"
 languageCode = 'en-us'
 title = 'PythonChalleges'
-enableGitInfo = true
 
 [params]
     BookTheme = 'auto'
