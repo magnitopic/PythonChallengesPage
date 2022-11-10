@@ -1,7 +1,18 @@
 baseURL = 'http://example.org/'
 theme = "hugo-book"
 languageCode = 'en-us'
-title = 'PythonChalleges'
+title = "PythonChalleges"
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[languages.es]
+  languageName = 'Spanish'
+  contentDir = 'content.es'
+  weight = 2
 
 [params]
     BookTheme = 'auto'
